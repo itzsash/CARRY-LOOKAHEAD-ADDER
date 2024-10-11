@@ -4,7 +4,9 @@ This repository contains a **Parameterized N-Bit Carry Lookahead Adder** design 
 ## What is a Carry Lookahead Adder?
 A **Carry Lookahead Adder** is a type of adder that computes carry outputs in advance based on the input operands. It eliminates the ripple effect present in traditional ripple carry adders by using a more complex logic structure to determine the carry outputs simultaneously.
 
-![carry-lookahead-adder-4-bit](https://github.com/user-attachments/assets/fac9b9d8-8c17-4842-95d6-1b000b2124e9)
+
+![carry-look-ahead-adder](https://github.com/user-attachments/assets/2f6c9aae-a98a-4880-b06e-9ad4f4da4b9e)
+
 
 
 ## Key Features of N-Bit Carry Lookahead Adder
